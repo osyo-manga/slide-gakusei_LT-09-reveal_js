@@ -75,9 +75,9 @@
 ## まとめ
 - - -
 
-* reveal.js を使えば markdown で簡単にスライドをつくれる
-* browser-sync を使えばライブリロードしながらスライド書ける
-* めっちゃべんり
+* reveal.js を使えば markdown で簡単にスライドをつくれる  <!-- .element: class="fragment" -->
+* browser-sync を使えばライブリロードしながらスライド書ける  <!-- .element: class="fragment" -->
+* めっちゃべんり  <!-- .element: class="fragment" -->
 
 ---
 
